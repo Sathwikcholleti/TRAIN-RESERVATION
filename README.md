@@ -1,0 +1,1 @@
+This Python-based Train Reservation System allows users to simulate booking train tickets. The program asks for passenger details, such as name, age, gender, source and destination stations, and coach type (AC, Sleeper, or Unreserved). It then provides a confirmed berth, coach number, and calculates the fare based on the coach type.
